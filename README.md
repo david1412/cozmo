@@ -1,2 +1,1 @@
-# cozmo
-project
+# Case Study LDO Jump Start
